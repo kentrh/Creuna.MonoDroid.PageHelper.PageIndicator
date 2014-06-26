@@ -14,7 +14,7 @@ Xamarin Android widget for an easy page indicator ported from GreenDroid
         android:layout_marginBottom="5dip" />
 ```
 
-#### C\#
+#### CSharp
 
 Get the view from markup
 
