@@ -21,16 +21,12 @@ Get the view from markup
 ```
 using Creuna.MonoDroid.PageHelper;
 
-public PageIndicator vwPageIndicator
-        {
-            get { return Get<PageIndicator>(Resource.Id.pageIndicator); }
-        }
+var pageIndicator = Activity.FindViewById<PageIndicator>(Resource.Id.pageIndicator);
 ```
 
 Set the properties accordingly
 
 ```
-	var pageIndicator = vwPageIndicator;
 	pageIndicator.DotCount = _numberOfPages;
 	pageIndicator.ActiveDot = _currentPage;
 
