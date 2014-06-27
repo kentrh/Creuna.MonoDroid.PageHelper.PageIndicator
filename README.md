@@ -33,3 +33,7 @@ Set the properties accordingly
 ```
 
 For full documentation on the GrennDroid project see [http://greendroid.cyrilmottier.com/reference/greendroid/widget/PageIndicator.html](http://greendroid.cyrilmottier.com/reference/greendroid/widget/PageIndicator.html).
+
+#### Screenshot
+![alt tag](https://raw.githubusercontent.com/kentrh/Creuna.MonoDroid.PageHelper.PageIndicator/master/screenshot.png)
+
